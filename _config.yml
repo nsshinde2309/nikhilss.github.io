@@ -3,14 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Nikhil Shinde
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Data scientist at TuringMinds.ai
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
+avatar: https://media.licdn.com/dms/image/C5603AQGrv_4lngKcdA/profile-displayphoto-shrink_800_800/0/1613289008123?e=1677110400&v=beta&t=60jVvmUzfQDxZFXflkhOaw083l4lhBK0oQXiLVymptU
 #
 # Flags below are optional
 #
@@ -21,9 +20,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: https://github.com/nsshinde2309
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/nikhil-shinde2309
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
